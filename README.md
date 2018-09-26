@@ -13,6 +13,9 @@ Web Application Development
 ## Project Description:
 (In this project we learned about Jithub and designed a site about it to practice our skills.)
 
+## View Project:
+https://sophiesweeney.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
 1. (Before this lesson I knew nothing about Jithub, I recognized the name from it being mentioned in class but other than that I knew nothing. So I learned the basic fundamentals, that it is a version control system.)
 2. (I also learned about version control systems and that they update the different versions of files after everytime they change so no data or important information is lost.)
